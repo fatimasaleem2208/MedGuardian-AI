@@ -1,4 +1,4 @@
-MedGuardian AI
+## MedGuardian AI
 Smart Medication Safety Platform
 
 MedGuardian AI is an AI-powered medication safety platform designed to help users make safer and more informed decisions about their medicines.
@@ -7,9 +7,9 @@ The platform focuses on identifying potential medication-related risks, providin
 
 «Disclaimer: MedGuardian AI is an educational and decision-support platform. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional before making medication decisions.»
 
-Live Demo: https://medguardianai-one.vercel.app/
+-- Live Demo: https://medguardianai-one.vercel.app/
 
-Features
+## Features
 Medication Information Provides useful information about medicines, their uses, and safety considerations.
 
 AI-Powered Assistance Uses artificial intelligence to analyze medication-related queries and provide helpful responses.
@@ -22,12 +22,12 @@ User-Friendly Interface Simple and accessible interface for interacting with med
 
 Secure Data Handling Built with security and responsible handling of user information in mind.
 
-Problem Statement
+## Problem Statement
 Medication errors and drug interactions can create serious health risks. Users may have difficulty understanding medication information, identifying potential interactions, or knowing when professional advice is required.
 
 MedGuardian AI aims to provide an accessible technology-based solution that can assist users in recognizing potential medication safety concerns.
 
-💡 Solution
+## Solution
 
 MedGuardian AI combines a user-friendly interface with AI-powered assistance to make medication safety information easier to access.
 
@@ -41,7 +41,7 @@ Encourage consultation with healthcare professionals when appropriate.
 Technologies
 The project is built using modern web and AI technologies.
 
-Frontend
+## Frontend
 
 React
 TypeScript
@@ -88,7 +88,7 @@ npm run dev
 
 Open the local URL displayed in your terminal.
 
-Security
+## Security
 Security is an important part of MedGuardian AI.
 
 The project follows security-conscious development practices including:
@@ -126,20 +126,16 @@ Multilingual support
 Healthcare professional integration
 Advanced interaction detection
 Enhanced privacy and security controls
-Project Team
+
+## Project Team
 MedGuardian AI was developed as a collaborative healthcare technology project.
 
 Team Lead
-
 Bushra Saleem (Pharm - D Student)
-
 Team Members
-
 Eman Sheikh (Pharm - D Student)
-
 Fatima Saleem ( Cyber Security Student - Developer)
 
-Project team members
 
 ## License
 
